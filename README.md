@@ -2,7 +2,7 @@
 
 I'm Bq, Apple platform client developer from Guangzhou, China.
 
-- 🔭 I’m currently working onn audio and video field
+- 🔭 I’m currently working on audio and video field
 - 🌱 I’m currently learning iOS, macOS development, FFmpeg
 - 🛠 Lang: Swift, Objective-C, C
 - 🤘 Hobbies: drum kit, flim, art exhibition, translation
