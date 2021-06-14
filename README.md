@@ -7,5 +7,6 @@ I'm Bq, Apple platform client developer from Guangzhou, China.
 - 🛠 Lang: Swift, Objective-C, C
 - 🤘 Hobbies: drum kit, flim, art exhibition, translation
 - 🎵 Music preference: rock, metal, funk, jazz, folk
+- 📮 Contact me: bq_lin@hotmail.com
 
 I like to toss about software and even hardware. Client development is one of my hobbies, I hope I can make the app a work of art.
