@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Bq, Apple platform client developer from Guangzhou, China.
+I'm Bq, Apple platform client developer from Guangdong, China.
 
 - 🔭 I’m currently working on audio and video field
 - 🌱 I’m currently learning iOS, macOS development, FFmpeg
